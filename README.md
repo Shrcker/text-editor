@@ -3,6 +3,7 @@
 As the title suggests, Just Another Text Editor is an in-browser, JavaScript based text editor. You can use it to help preview your code projects as well as download the source code of your own session into your browser's storage.
 
 **Link**: [Here](https://github.com/Shrcker/text-editor)
+
 **Deployment Link**: [Here](https://google.com)
 
 ![Project Screenshot](./resources/images/projectScreen.png)
