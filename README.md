@@ -4,7 +4,7 @@ As the title suggests, Just Another Text Editor is an in-browser, JavaScript bas
 
 **Link**: [Here](https://github.com/Shrcker/text-editor)
 
-**Deployment Link**: [Here](https://google.com)
+**Deployment Link**: [Here](https://text-editor-kqgg.onrender.com/)
 
 ![Project Screenshot](./resources/images/projectScreen.png)
 
